@@ -3,7 +3,7 @@
 
 install
 ```bash
-composer require helloworld\helloworld
+composer require arkin\helloworld
 ```
 
 command:
