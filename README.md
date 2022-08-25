@@ -7,7 +7,7 @@ composer require arkin\helloworld
 ```
 
 command:
-```php
+```bash
 php vendor/bin/hellworld
 ```
 
