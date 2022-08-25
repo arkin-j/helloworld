@@ -1,0 +1,30 @@
+{
+    "name": "helloworld/helloworld",
+    "description": "print hello world!",
+    "keywords": [
+        "helloworld"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    },
+    "bin": [
+        "bin/helloworld.php"
+    ],
+    "authors": [
+        {
+            "name": "Arkin",
+            "email": "wzgflash@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    }
+}
